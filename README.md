@@ -1,6 +1,6 @@
 # iPad Gimbal - Energieeffiziente Mikrocontroller
 
-Git repoo für die Verwaltung des Schaltplans und des PCB layouts.
+Git repofür die Verwaltung des Schaltplans und des PCB layouts.
 
 Schaltplan erstellt mittels KiCad
 
