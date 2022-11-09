@@ -6,8 +6,8 @@ Schaltplan erstellt mittels KiCad
 
 ## ToDo:
 
-- [ ] Review Schaltplan
-- [ ] Review PCB Layout
+- [x] Review Schaltplan
+- [x] Review PCB Layout
 - [ ] Bestellung Komponenten
 - [ ] Bestellung PCB 
   
