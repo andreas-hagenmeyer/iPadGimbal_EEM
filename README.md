@@ -8,8 +8,10 @@ Schaltplan erstellt mittels KiCad
 
 - [x] Review Schaltplan
 - [x] Review PCB Layout
-- [ ] Bestellung Komponenten
-- [ ] Bestellung PCB 
+- [x] Bestellung Komponenten
+- [x] Bestellung PCB 
+- [ ] Löten der PCB
+- [ ] Inbetriebnahme
   
 
 ## 3D Ansicht PCB
