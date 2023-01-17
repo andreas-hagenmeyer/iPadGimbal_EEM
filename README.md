@@ -10,9 +10,10 @@ Schaltplan erstellt mittels KiCad
 - [x] Review PCB Layout
 - [x] Bestellung Komponenten
 - [x] Bestellung PCB 
-- [ ] Löten der PCB
-- [ ] Inbetriebnahme
+- [x] Löten der PCB
+- [x] Inbetriebnahme
   
+Projekt wurde im WS 22/23 abgeschossen. Die Enddokumentation des Projektes befindet sich im Teams-Kanal der Vorlesung
 
 ## 3D Ansicht PCB
 
